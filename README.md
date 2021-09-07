@@ -22,7 +22,7 @@ Examining biodiversity to demonstrate using Pandas for exploratory data analysis
 **LifeExpectancy**          
 Using life expectancy and GDP to demonstrate various plotting methods            
 
-##### Notes
+### Notes
 Not all data is included for Codecademy projects
 ## Personal Projects
 ### Other
