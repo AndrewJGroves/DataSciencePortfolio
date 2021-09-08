@@ -3,6 +3,15 @@
 This repository is designed to try and demonstrate my ability to do data analysis and data science projects. Some of the projects have come from Codecademy while others will be my own.       
 There is also the [repository](https://github.com/AndrewJGroves/IBMCaptoneProject) which was created to complete the IBM data science course. These demonstrate a series of skills needed for data science.
 
+## Personal Projects
+### Machine Learning
+**LaptopPrice**     
+Using regression, multiple and linear, to find the price of laptops.         
+
+### Other
+**NuclearMissle**       
+Using the Wikipedia package to extract the nuclear missile information from Wikipedia. Then importing them to a data frame, plotting them and then making a matplotlib movie on progression.   
+
 ## Codecademy Projects
 ### Machine Learning    
 **YelpRegression**           
@@ -24,8 +33,5 @@ Using life expectancy and GDP to demonstrate various plotting methods
 
 ### Notes
 Not all data is included for Codecademy projects
-## Personal Projects
-### Other
-**NuclearMissle**       
-Using the Wikipedia package to extract the nuclear missile information from Wikipedia. Then importing them to a data frame, plotting them and then making a matplotlib movie on progression.       
+    
    
