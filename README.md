@@ -7,6 +7,11 @@ There is also the [repository](https://github.com/AndrewJGroves/IBMCaptoneProjec
 ### Machine Learning
 **LaptopPrice**     
 Using regression, multiple and linear, to find the price of laptops.         
+**Iris**       
+Using the Iris dataset to get experience with classification            
+**mnist**               
+Using the mnist dataset to learn classification          
+
 
 ### Other
 **NuclearMissle**       
