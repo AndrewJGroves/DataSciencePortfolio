@@ -8,7 +8,7 @@ There is also the [repository](https://github.com/AndrewJGroves/IBMCaptoneProjec
 **LaptopPrice**     
 Using regression, multiple and linear, to find the price of laptops.         
 **Iris**       
-Using the Iris dataset to get experience with classification            
+Using the Iris dataset to get experience with classification. It also includes a first look at kMeans clustering.            
 **mnist**               
 Using the mnist dataset to learn classification          
 
