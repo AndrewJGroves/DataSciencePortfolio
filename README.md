@@ -6,7 +6,9 @@ There is also the [repository](https://github.com/AndrewJGroves/IBMCaptoneProjec
 ## Personal Projects
 ### Machine Learning
 **HousingPrice**                   
-Using regression to predict housing prices. I demonstrate tuning of hyperparameters, data cleaning, pipelines and simple stacking.      
+Using regression to predict housing prices. I demonstrate tuning of hyperparameters, data cleaning, pipelines and simple stacking.       
+**Titanic Survial**       
+Classification project on titanic survial rate with explainations included, (half done)              
 **MedicalCost**                 
 Using regression based on HousingPrice to estimate the costs of submitted to insurance firms            
 **LaptopPrice**     
