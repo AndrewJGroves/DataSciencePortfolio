@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository is designed to try and demonstrate my ability to do data analysis and data science projects. Some of the projects have come from Codecademy while others will be my own.       
+This repository is designed to try and demonstrate my ability to do data analysis and data science projects. Some of the projects have come from Codecademy while others will be my own. This will mainly focus on Machine Learning as my PhD demonstates data analysis.       
 There is also the [repository](https://github.com/AndrewJGroves/IBMCaptoneProject) which was created to complete the IBM data science course. These demonstrate a series of skills needed for data science.
 
 ## Personal Projects
