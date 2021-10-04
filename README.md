@@ -22,6 +22,8 @@ Using the mnist dataset to learn classification
 ### Other
 **NuclearMissle**       
 Using the Wikipedia package to extract the nuclear missile information from Wikipedia. Then importing them to a data frame, plotting them and then making a matplotlib movie on progression.   
+**LearnCVXPY**                 
+File copying the CVXPY's tutorial into my own words to assist with memory        
 
 ## Codecademy Projects
 ### Machine Learning    
