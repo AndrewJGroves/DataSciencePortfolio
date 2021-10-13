@@ -1,5 +1,5 @@
-## Codecademy Projects
-### Machine Learning    
+# Codecademy Projects
+## Machine Learning    
 **YelpRegression**           
 Using regression, multiple and linear, to predict what yelp factors correspond to good overall ratings             
 **DateAScientist**                 
@@ -9,7 +9,7 @@ This using the classifcation kNN algorithm to try and predict if a tweet is vira
 **TweetLocation**       
 This uses Naive Bayes Classifier to try and predict the location of tweets
 
-### Other
+## Other
 **USMedicalInsurance**                 
 Looking into US medical Insurance to demonstrate using python            
 **Biodiversity**          
