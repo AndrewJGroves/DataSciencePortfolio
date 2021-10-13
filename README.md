@@ -5,7 +5,7 @@ There is a series of projects that I did as part of Codecademy is its own direct
 
 # Projects
 ## Machine Learning
-#### Regression
+### Regression
 **Explainations Included - HousingPrice**                   
 Using regression to predict housing prices. I demonstrate tuning of hyperparameters, data cleaning, pipelines and simple stacking.    
 **MedicalCost**                 
@@ -13,7 +13,7 @@ Using regression based on HousingPrice to estimate the costs of submitted to ins
 **LaptopPrice**     
 Using regression, multiple and linear, to find the price of laptops.   
 
-#### Classification   
+### Classification   
 **Explainations Included - Titanic Survial**       
 Classification project on titanic survial rate with explainations included          
 **Iris**       
