@@ -24,7 +24,7 @@ Using the mnist dataset to learn classification
 
 ## Other
 **netflix-eda**       
-Using a neflix data set to do exploratory data analysis (not finished)              
+Using a neflix data set to do exploratory data analysis         
 **NuclearMissle**       
 Using the Wikipedia package to extract the nuclear missile information from Wikipedia. Then importing them to a data frame, plotting them and then making a matplotlib movie on progression.   
 **LearnCVXPY**                 
