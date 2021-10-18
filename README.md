@@ -1,7 +1,8 @@
 # Portfolio
 
 This repository is designed to try and demonstrate my ability to do data analysis and data science projects. This will mainly focus on Machine Learning as my PhD demonstates data analysis.                             
-There is a series of projects that I did as part of Codecademy is its own directory. There is also the [repository](https://github.com/AndrewJGroves/IBMCaptoneProject) which was created to complete the IBM data science course. These demonstrate a series of skills needed for data science.          
+There is a series of projects that I did as part of Codecademy is its own directory. There is also the [repository](https://github.com/AndrewJGroves/IBMCaptoneProject) which was created to complete the IBM data science course. These demonstrate a series of skills needed for data science.   
+## Key Projects
 What I view as the best projects are:
 * **Regression**: _HousingPrices_ has the best coding but _LaptopPrice_ is the most original
 * **Classification**: Titanic Survial 
