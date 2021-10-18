@@ -5,7 +5,7 @@ There is a series of projects that I did as part of Codecademy is its own direct
 ## Key Projects
 What I view as the best projects are:
 * **Regression**: _HousingPrices_ has the best coding but _LaptopPrice_ is the most original
-* **Classification**: Titanic Survial 
+* **Classification**: _Titanic Survial_ hass all the descriptions but _pokemonClassification_ is the most original 
 * **Clustering** Iris - first trial 
 * **Data Cleaning** NuclearMissle
 * **EDA** netflix-eda
@@ -22,7 +22,9 @@ Using regression, multiple and linear, to find the price of laptops. - needs upd
 
 ### Classification   
 **Explainations Included - Titanic Survial**       
-Classification project on titanic survial rate with explainations included          
+Classification project on titanic survial rate with explainations included       
+**pokemonClassification**             
+Using a pokemon dataset to classifing if it is legendary or not         
 **Iris**       
 Using the Iris dataset to get experience with classification. It also includes a first look at kMeans clustering.            
 **mnist**               
