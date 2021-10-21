@@ -6,7 +6,7 @@ There is a series of projects that I did as part of Codecademy is its own direct
 What I view as the best projects are:
 * **Regression**: _HousingPrices_ has the best coding but _LaptopPrice_ is the most original
 * **Classification**: _Titanic Survial_ hass all the descriptions but _pokemonClassification_ is the most original 
-* **Clustering** Iris - first trial 
+* **Clustering** customer-segmentation-clustering
 * **Data Cleaning** NuclearMissle
 * **EDA** netflix-eda
 
