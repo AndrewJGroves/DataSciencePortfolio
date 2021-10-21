@@ -30,6 +30,10 @@ Using the Iris dataset to get experience with classification. It also includes a
 **mnist**               
 Using the mnist dataset to learn classification          
 
+### Clustering
+**Explainations Included - customer-segmentation-clustering**      
+Using kMeans clustering to cluster customers together on various properties.            
+
 
 ## Other
 **netflix-eda**       
