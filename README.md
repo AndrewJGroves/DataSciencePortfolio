@@ -18,7 +18,7 @@ Using regression to predict housing prices. I demonstrate tuning of hyperparamet
 **MedicalCost**                 
 Using regression based on HousingPrice to estimate the costs of submitted to insurance firms            
 **LaptopPrice**     
-Using regression, multiple and linear, to find the price of laptops. - needs updating after learning alot more  
+Using regression, multiple and linear, to find the price of laptops. 
 
 ### Classification   
 **Explainations Included - Titanic Survial**       
